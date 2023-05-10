@@ -1,4 +1,4 @@
-# Web-Game-Dev
+# Web-Game-Dev-TECC-E
 TECC-E Web and Game Development course work
 
 JANUARY 2023-MAY 2023
